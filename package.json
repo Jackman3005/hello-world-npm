@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/Jackman3005/hello-world-npm/issues"
   },
-  "homepage": "https://github.com/Jackman3005/hello-world-npm#readme",
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
-  }
+  "homepage": "https://github.com/Jackman3005/hello-world-npm#readme"
 }
