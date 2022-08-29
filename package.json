@@ -10,12 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/Jackman3005/hello-world-npm.git"
   },
-  "author": "Codertocat",
+  "author": "Jackman3005",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Codertocat/hello-world-npm/issues"
+    "url": "https://github.com/Jackman3005/hello-world-npm/issues"
   },
-  "homepage": "https://github.com/Codertocat/hello-world-npm#readme",
+  "homepage": "https://github.com/Jackman3005/hello-world-npm#readme",
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
   }
