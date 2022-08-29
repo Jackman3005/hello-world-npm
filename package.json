@@ -7,8 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Jackman3005/hello-world-npm.git"
+    "url": "https://github.com/Jackman3005/hello-world-npm"
   },
   "author": "Jackman3005",
   "license": "ISC",
